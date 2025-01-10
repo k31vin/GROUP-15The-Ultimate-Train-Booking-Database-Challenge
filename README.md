@@ -125,7 +125,7 @@ Details of processed refunds.
 ---
 
 ## Entity-Relationship Diagram (ERD)
-Below is the high-level ERD representation:
+Below is the ERD representation:
 
 ```plaintext
 Users ||--o{ Passenger : has
