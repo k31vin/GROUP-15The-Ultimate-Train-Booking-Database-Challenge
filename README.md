@@ -137,3 +137,7 @@ Booking ||--|| PNRDetails : generates
 Booking ||--|| Payment : requires
 RefundRules ||--o{ Refunds : governs
 PNRDetails ||--o{ Refunds : initiates
+
+```
+### Here is the link to the drawio where we drew the ERD diagram: 
+https://drive.google.com/file/d/1XZJnyjveydIdmyyHQWDcldwuSjI6uMsC/view?usp=sharing
